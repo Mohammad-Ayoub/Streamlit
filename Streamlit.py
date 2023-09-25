@@ -20,7 +20,7 @@ grey_line="""<hr style="height:1px;border:none;no shade;"/>"""
 st.set_page_config(layout='wide')
 
 # Loading Dataset
-df = pd.read_csv("/Users/mohdayb/Downloads/Largest_Companies.csv")
+df = pd.read_csv("./Largest_Companies.csv")
 
 # MSBA Logo
 html_string = '''<!DOCTYPE html>
