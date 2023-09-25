@@ -10,11 +10,6 @@ def space(n,element): # n: number of lines
     for i in range(n):
         element.write("")
 
-# html command for a red line
-red_line="""<hr style="height:4px;border:none;color:#DC143C;background-color:#DC143C;"/>"""
-
-# html commnad for a grey line
-grey_line="""<hr style="height:1px;border:none;no shade;"/>"""
 
 # Setting page layout
 st.set_page_config(layout='wide')
