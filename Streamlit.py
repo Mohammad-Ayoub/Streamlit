@@ -39,7 +39,6 @@ st.sidebar.subheader("Done by Mohammad Hussein Ayoub")
 st.sidebar.subheader("Professor [Fouad Zablith](https://www.aub.edu.lb/pages/profile.aspx?memberId=fz13)")
 
 
-df = pd.read_csv("/Users/mohdayb/Downloads/Largest_Companies.csv")
 
 
 # Create a Streamlit app
